@@ -40,7 +40,7 @@ a = [1, 2, 3]
 b = a.copy()
 print(a)
 
-# 2. list+tuple+dictionary() 변환 함수
+# 2. 3.list+tuple+dictionary() 변환 함수
 c = list(a)
 print(c)
 

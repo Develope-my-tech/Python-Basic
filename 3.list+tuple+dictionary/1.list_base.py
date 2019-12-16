@@ -1,6 +1,6 @@
 # list의 기본적인 개념은 pass
 
-# list+tuple+dictionary() 함수로 빈 리스트를 할당할 수 있다.
+# 3.list+tuple+dictionary() 함수로 빈 리스트를 할당할 수 있다.
 ex_list = list()
 print(ex_list)
 
