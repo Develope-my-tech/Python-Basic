@@ -18,9 +18,6 @@ print_kwargs(wine='merlot', entree='mutton', dessert='macarron')
 def echo(anything):
     'echo returns its input arguement'
 
-    '''이런식으로
-    길게 작성할 수도
-    있다.'''
     return anything
 help(echo)
 # 결과물
