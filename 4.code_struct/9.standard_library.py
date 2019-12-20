@@ -100,7 +100,7 @@ for item in itertools.chain([1, 2], ['a', 'b']): # chain : 순회 가능한 인�
 for item in itertools.accumulate([1, 2, 3, 4]): # 축적된 값 계산
     print(item)
 # 1
-# 3
+#
 # 6
 # 10
 
