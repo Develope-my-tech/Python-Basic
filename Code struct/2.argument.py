@@ -28,4 +28,3 @@ help(echo)
 
 print(echo.__doc__)
 # 결과 : echo returns its input arguement
-
