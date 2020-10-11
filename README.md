@@ -11,7 +11,7 @@
 - ### [*Network*](https://github.com/bosl95/python_basic/tree/master/Network)
 - ### [*Class*](https://github.com/bosl95/python_basic/tree/master/Object%20%26%20class)
 - ### [*Pyart*](https://github.com/bosl95/python_basic/tree/master/Pyart)
-- ### [Pyscience*](https://github.com/bosl95/python_basic/tree/master/Pyscience)
+- ### [*Pyscience*](https://github.com/bosl95/python_basic/tree/master/Pyscience)
 - ### [*String*](https://github.com/bosl95/python_basic/tree/master/String)
 - ### [*System*](https://github.com/bosl95/python_basic/tree/master/System)
 - ### [*Tool*](https://github.com/bosl95/python_basic/tree/master/Tool)
