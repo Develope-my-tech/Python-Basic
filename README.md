@@ -17,6 +17,7 @@
 - ### [*Tool*](https://github.com/bosl95/python_basic/tree/master/Tool)
 - ### [*Web*](https://github.com/bosl95/python_basic/tree/master/Web)
 
+<br>
 
 # :dart: What is Python?
 
