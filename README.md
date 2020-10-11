@@ -97,6 +97,6 @@
 - 에러가 나는 경우
 	
 	  int('98.6')		# error
-	  int('1.0e4')	# error
+	  int('1.0e4')	    # error
 
 <br>
