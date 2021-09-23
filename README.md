@@ -6,7 +6,7 @@
 
 ## :heavy_check_mark: Contents
 
-- ### [*Code struct*](https://github.com/bosl95/python_basic/tree/master/Code%20struct)
+- ### [*Code struct*](https://github.com/Develope-my-tech/Python-Basic/tree/master/Code%20struct)
 - ### [*Data*](https://github.com/bosl95/python_basic/tree/master/Data)
 - ### [*List&Tuple&Dictionary*](https://github.com/bosl95/python_basic/tree/master/List%20%26%20Tuple%20%26%20dictionary)
 - ### [*Network*](https://github.com/bosl95/python_basic/tree/master/Network)
