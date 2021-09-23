@@ -4,21 +4,26 @@
 ## :pushpin: 문자추출 '[ ]'  
 ### 한 문자를 얻기 위해 문자열 이름 뒤에 대괄호([])와 오프셋을 지정한다.<br>  
 ### 그러나 문자열은 불변하기 때문에 특정 인덱스에 문자를 삽입하거나 변경할 수 없다.<br>  
-     name = 'Henny'  
-	 name[0] = 'P'  # error  
+
+```python
+name = 'Henny'  
+name[0] = 'P'  # error  
+``` 
   
 <br>  
   
 ## :pushpin: Slice (:zap:인덱싱도 잘 파악:zap:)  
   
- letters = '1234567890'    print(letters)        # '1234567890'    
-   print(letters[5:])     # '67890'    
-   print(letters[4:6])        # '56'    
-   print(letters[-3:])     # '890'    
-   print(letters[2:-3])    # '34567'    
-   print(letters[1:6:2])   # '246'    
-   print(letters[6:1:-2])  # '753'  
-  
+```python
+letters = '1234567890'    
+print(letters)        # '1234567890'    
+print(letters[5:])     # '67890'    
+print(letters[4:6])        # '56'    
+print(letters[-3:])     # '890'    
+print(letters[2:-3])    # '34567'    
+print(letters[1:6:2])   # '246'    
+print(letters[6:1:-2])  # '753'  
+```
 <br>  
   
 ## :pushpin: Quotation mark 
